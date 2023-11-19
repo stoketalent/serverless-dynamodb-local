@@ -1,6 +1,11 @@
 serverless-dynamodb-local
 =================================
 
+This fork exists because the main maintainer doesn't update the npm release for this library and for the dynamodb-localhost library.
+as long as the working versions of both dependencies are not released to npm we will use our own fork (like we use other dependencies)
+[See aws article](https://repost.aws/articles/ARc4hEkF9CRgOrw8kSMe6CwQ/troubleshooting-the-access-key-id-or-security-token-is-invalid-error-after-upgrading-dynamodb-local-to-version-2-0-0-1-23-0-or-greater)
+
+
 [![Join the chat at https://gitter.im/99xt/serverless-dynamodb-local](https://badges.gitter.im/99xt/serverless-dynamodb-local.svg)](https://gitter.im/99xt/serverless-dynamodb-local?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![npm version](https://badge.fury.io/js/serverless-dynamodb-local.svg)](https://badge.fury.io/js/serverless-dynamodb-local)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
