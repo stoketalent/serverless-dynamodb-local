@@ -9,7 +9,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/99xt/serverless-dynamodb-local"
+        "url": "https://github.com/stoketalent/serverless-dynamodb-local"
     },
     "keywords": [
         "serverless framework plugin",
